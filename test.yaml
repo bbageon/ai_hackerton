@@ -1,0 +1,5 @@
+train : 'C:\Users\OMEN\Desktop\ai\train'
+val : 'C:\Users\OMEN\Desktop\ai\val'
+test : 'C:\Users\OMEN\Desktop\ai\test'
+names :  ['B0','B1','H0','H1','M0','M1']
+nc : 6
